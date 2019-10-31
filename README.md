@@ -1,7 +1,6 @@
 # Lance
 Advanced group messaging application 
 
-__init__.py file has to be created in the root directory for module access<br>
 Dependenies required:-<br>
     termcolor<br>
 References:-<br>
