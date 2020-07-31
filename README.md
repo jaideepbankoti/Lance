@@ -1,5 +1,6 @@
 # Lance
-Advanced group messaging application 
+## Advanced group messaging application.
+Lance hosts group chat amongst users that are part of a specific group. There are five groups and each of them stores the user credential and chat logs. There is still development underway to make the application more interactive and deploy it online.
 
 Dependenies required:-<br>
     termcolor<br>
